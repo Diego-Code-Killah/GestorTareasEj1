@@ -43,7 +43,7 @@ public class GestorTarea {
             System.out.println("No se encontró una tarea con ese nombre.");
         }
     }
-    
+
     private boolean completarTarea() {
         String nombre;
 
